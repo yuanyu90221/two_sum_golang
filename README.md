@@ -142,3 +142,5 @@ func Test_twoSum(t *testing.T) {
 }
 
 ```
+## my hackmd
+[two_sum_golang](https://hackmd.io/@JgGTFI_BRjyUv6YuG1bmUQ/rks_HRCKP)
